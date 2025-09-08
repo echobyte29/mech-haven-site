@@ -311,7 +311,7 @@ const RobotronicsEvent = () => {
             </p>
             <div className="border-t border-tech-cyan/20 pt-8 mt-8">
               <p className="text-tech-cyan-light text-sm">
-                © 2024 RoboHorizon Club. Empowering the next generation of robotics innovators.
+                © 2024 Robotronics Club. Empowering the next generation of robotics innovators.
               </p>
             </div>
           </div>
