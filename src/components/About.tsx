@@ -9,7 +9,7 @@ const About = () => {
         {/* Mission Statement */}
         <div className="text-center max-w-4xl mx-auto mb-20">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-8 text-foreground">
-            "RoboHorizon Club: A Commitment to{" "}
+            "Robotronics Club: A Commitment to{" "}
             <span className="text-tech-cyan">Precision</span>, A Journey into{" "}
             <span className="text-tech-orange">Robotic Excellence</span>."
           </h2>

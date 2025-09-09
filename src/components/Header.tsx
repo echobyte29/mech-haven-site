@@ -26,7 +26,7 @@ const Header = () => {
               <Bot className="h-6 w-6 text-primary-foreground" />
             </div>
             <span className="text-xl lg:text-2xl font-bold text-foreground">
-              ROBOHORIZON CLUB
+              ROBOTRONICS CLUB
             </span>
           </div>
 

@@ -13,6 +13,7 @@ const BlogPost = () => {
     {
       id: 1,
       title: "Robotronics Club Inauguration: A New Era Begins",
+      excerpt: "The ECE department at KLH Deemed to be University proudly announces the inauguration of Robotronics Club, marking the beginning of an exciting journey in robotics education and innovation.",
       content: `The ECE department at KLH Deemed to be University, Bowrampet campus is pleased to announce that a new Robotronics Club for all the students of the campus will be inaugurated by our beloved principal Dr. L. Koteswara Rao on 13th November 2024 at 10 am.
 
 We will have a special guest, Mr. D. Tagore, Manager at Vidvan Electronics Pvt. Ltd. speaking at the inauguration ceremony. We cordially invite all ECE students and staff to join this event to share your insights and help us in achieving our goals for the club.
@@ -64,66 +65,172 @@ We look forward to welcoming you to this exciting event that marks the beginning
     },
     {
       id: 2,
+      title: "Six-Day Workshop: FIOTS LAB Programming for Automotive Embedded Systems",
+      excerpt: "A comprehensive six-day workshop on FIOTS LAB Programming for Automotive Embedded Systems conducted by Dr. V. Ravi Kumar, offering hands-on experience for ECE 2nd year students.",
+      content: `This is to inform all ECE students that a Six-day workshop on "FIOTS LAB Programming for Automotive Embedded System through Robotronics Club Team" will be conducted by Dr. V. Ravi Kumar. The workshops will be held during 18th-23rd September 2024, at the KLH Bachupally campus.
+
+## Workshop Details
+
+### Schedule
+- **Dates**: 18th - 23rd September 2024
+- **Venue**: KLH Bachupally Campus
+- **Daily Timings**:
+  - Morning Session: 8:10 AM to 12:40 PM
+  - Afternoon Session: 1:20 PM to 4:00 PM
+
+### Key Features
+- **Mode**: Offline, Hands-on Experience
+- **Target Audience**: ECE 2nd Year Students
+- **Registration**: No registration requirement
+- **Certification**: Certificates awarded to top performers based on expert evaluation
+
+## Why Participate?
+
+This workshop provides an excellent opportunity for ECE 2nd year students to:
+- Gain valuable knowledge in FIOTS LAB Programming
+- Learn Automotive Embedded Systems concepts
+- Enhance research and development skills
+- Improve future career prospects
+- Receive expert evaluation and certification
+
+## Workshop Content
+
+The six-day intensive program covers:
+- FIOTS LAB Programming fundamentals
+- Automotive Embedded Systems architecture
+- Hands-on practical sessions
+- Real-world applications
+- Industry best practices
+
+## Faculty Coordinator
+**Dr. V. Ravi Kumar**
+- Associate Professor, Department of ECE
+- Robotics Club Coordinator
+- Expert in Embedded Systems
+
+We strongly encourage all interested ECE 2nd year students to participate in this workshop. This is a unique opportunity to gain practical knowledge and enhance your technical skills in the rapidly growing field of automotive embedded systems.
+
+For more details, please refer to the workshop brochure or contact the Robotics Club team.`,
+      author: "Dr. V. Ravi Kumar",
+      date: "September 17, 2024",
+      readTime: "4 min read",
+      category: "Workshop",
+      tags: ["FIOTS LAB", "Embedded Systems", "Automotive", "Hands-on", "ECE"],
+      featured: false,
+      image: "/images/2/IMG_9595.JPG",
+      views: 198,
+      comments: 15
+    },
+    {
+      id: 3,
+      title: "Build & Fly Your Own Drone: Advanced Workshop",
+      excerpt: "An advanced workshop on drone prototyping featuring expert talk by Mr. Vadluri Varun and hands-on drone assembly and flight testing sessions.",
+      content: `The Department of Electronics and Communication Engineering at KLH Bachupally Campus, in collaboration with the Robotronics Club, organized an advanced workshop titled "Build & Fly Your Own Drone" on 9th January 2025.
+
+## Workshop Highlights
+
+### Expert Speaker
+**Mr. Vadluri Varun**
+- Founder and CEO of EPIT Research Labs Pvt. Ltd.
+- Industry expert in drone technologies
+- Pioneer in drone prototyping and applications
+
+### Workshop Structure
+
+#### Morning Session: Expert Talk
+- Deep insights into drone technologies
+- Design principles and methodologies
+- Real-world applications and use cases
+- Industry trends and future developments
+
+#### Afternoon Session: Hands-on Workshop
+- Practical drone assembly
+- Flight testing and calibration
+- Troubleshooting and optimization
+- Safety protocols and best practices
+
+### Learning Outcomes
+
+Participants will gain expertise in:
+- Drone design and prototyping
+- Electronic components integration
+- Flight control systems
+- Aerial robotics applications
+- Safety and regulatory compliance
+
+## Coordinator
+**Dr. V. Ravi Kumar**
+- Associate Professor, Department of ECE
+- Robotics Club Coordinator
+- Workshop Organizer
+
+## Why Attend?
+
+This workshop offers:
+- **Experiential Learning**: Hands-on drone building experience
+- **Industry Insights**: Direct interaction with drone technology experts
+- **Innovation Focus**: Emphasis on creative problem-solving
+- **Career Enhancement**: Valuable skills for robotics and aerospace careers
+- **Networking**: Connect with industry professionals and peers
+
+## Target Audience
+- ECE students interested in robotics
+- Engineering students with electronics background
+- Enthusiasts in drone technology and aerial robotics
+- Future researchers in unmanned aerial systems
+
+The workshop successfully bridged the gap between theoretical knowledge and practical application, providing students with invaluable experience in the exciting field of drone technology. Participants left with not just knowledge, but also the confidence to innovate and create their own aerial solutions.
+
+This event marked another milestone in our commitment to providing cutting-edge technical education and fostering innovation among our students.`,
+      author: "Dr. V. Ravi Kumar",
+      date: "January 10, 2025",
+      readTime: "5 min read",
+      category: "Workshop",
+      tags: ["Drone", "Aerial Robotics", "Prototyping", "Hands-on", "Innovation"],
+      featured: false,
+      image: "/images/3/6055381508123902565.jpg",
+      views: 312,
+      comments: 28
+    },
+    {
+      id: 4,
       title: "The Future of Robotics: AI Integration and Automation",
+      excerpt: "Exploring how artificial intelligence is revolutionizing the field of robotics and what it means for the next generation of engineers and innovators.",
       content: `Artificial Intelligence (AI) is transforming the landscape of robotics in unprecedented ways. From autonomous vehicles to intelligent manufacturing systems, AI-powered robots are becoming increasingly sophisticated and capable.
 
-## The AI-Robotics Revolution
-
 The integration of AI in robotics brings several advantages:
+- Enhanced decision-making capabilities
+- Improved adaptability to dynamic environments
+- Better human-robot interaction
+- Increased efficiency in complex tasks
 
-### Enhanced Decision-Making
-AI algorithms enable robots to make intelligent decisions based on real-time data, environmental conditions, and learned patterns. This capability is crucial for applications in dynamic environments.
+Our upcoming seminar on "AI in Robotics" will delve deep into these topics, featuring industry experts who will share their insights on the latest developments and future trends in AI-driven robotics.
 
-### Improved Adaptability
-Machine learning allows robots to adapt to new situations and learn from experience, making them more versatile and efficient in performing complex tasks.
+## Key Topics Covered
 
-### Better Human-Robot Interaction
-Natural language processing and computer vision enable more intuitive and safe interactions between humans and robots in shared workspaces.
+### AI Algorithms in Robotics
+- Machine learning for robotic control
+- Computer vision for object recognition
+- Natural language processing for human-robot interaction
+- Reinforcement learning for autonomous behavior
 
-### Increased Efficiency
-AI optimization algorithms can significantly improve the efficiency of robotic systems, reducing energy consumption and operational costs.
+### Industry Applications
+- Manufacturing automation
+- Healthcare robotics
+- Autonomous vehicles
+- Service robots
 
-## Industry Applications
+### Future Trends
+- Edge AI for real-time processing
+- Collaborative robots (cobots)
+- Soft robotics with AI
+- Brain-computer interfaces
 
-### Manufacturing
-AI-powered robots are revolutionizing manufacturing processes:
-- Predictive maintenance
-- Quality control automation
-- Adaptive production lines
-- Collaborative robotics (cobots)
-
-### Healthcare
-In medical applications:
-- Surgical assistance robots
-- Rehabilitation devices
-- Drug discovery automation
-- Patient care robotics
-
-### Autonomous Vehicles
-Self-driving cars and drones rely heavily on AI for:
-- Real-time navigation
-- Obstacle detection and avoidance
-- Traffic prediction
-- Safety systems
-
-## Future Trends
-
-The future of AI in robotics looks promising with emerging technologies:
-
-- **Edge AI**: Processing AI algorithms directly on robotic hardware
-- **Swarm Robotics**: Coordinated behavior of multiple robots
-- **Soft Robotics**: Flexible, adaptable robotic systems
-- **Brain-Computer Interfaces**: Direct neural control of robots
-
-## Educational Implications
-
-For students pursuing robotics engineering, understanding AI integration is crucial. Our upcoming seminar on "AI in Robotics" will cover these topics in detail, providing hands-on experience with AI-powered robotic systems.
-
-The seminar will feature:
-- Industry expert speakers
-- Live demonstrations
-- Interactive workshops
-- Networking opportunities
+## Seminar Details
+- **Date**: September 22, 2024
+- **Time**: 10:00 AM - 12:00 PM
+- **Venue**: Auditorium Hall
+- **Speakers**: Industry experts from leading tech companies
 
 Join us to explore the exciting intersection of AI and robotics!`,
       author: "Dr. V. Ravi Kumar",
@@ -131,9 +238,94 @@ Join us to explore the exciting intersection of AI and robotics!`,
       readTime: "5 min read",
       category: "Technology",
       tags: ["AI", "Robotics", "Automation", "Future Tech"],
+      featured: false,
       image: "/images/1/1.2.jpg",
       views: 189,
       comments: 8
+    },
+    {
+      id: 5,
+      title: "Hands-on Learning: Automotive Embedded Systems Workshop",
+      excerpt: "A comprehensive guide to the upcoming workshop on Automotive Embedded Systems, covering everything from basic concepts to advanced applications.",
+      content: `The Automotive Embedded Systems workshop is designed to provide students with practical knowledge and hands-on experience in one of the most rapidly growing fields in electronics engineering.
+
+Workshop Highlights:
+- Introduction to embedded systems architecture
+- Automotive-specific microcontroller programming
+- Sensor integration and data acquisition
+- Real-time operating systems (RTOS)
+- CAN bus communication protocols
+- Safety-critical system design
+
+This workshop will be conducted by Dr. V. Ravi Kumar, our experienced faculty member who has extensive knowledge in embedded systems and automotive electronics. Participants will work on real automotive components and learn industry-standard practices.
+
+## Learning Objectives
+- Understand automotive embedded systems fundamentals
+- Learn microcontroller programming for automotive applications
+- Gain experience with sensor integration
+- Master CAN bus communication
+- Develop safety-critical system design skills
+
+## Target Audience
+- ECE students
+- Mechanical engineering students
+- Computer science students interested in embedded systems
+- Final year engineering students
+
+## Workshop Schedule
+- **Duration**: 2 days
+- **Mode**: Hands-on practical sessions
+- **Prerequisites**: Basic knowledge of C programming
+- **Certification**: Certificate of completion
+
+Join us for an intensive learning experience that will prepare you for the exciting world of automotive embedded systems!`,
+      author: "Workshop Coordinator",
+      date: "November 5, 2024",
+      readTime: "4 min read",
+      category: "Education",
+      tags: ["Workshop", "Embedded Systems", "Automotive", "Hands-on"],
+      featured: false,
+      image: "/images/1/2.1.jpg",
+      views: 156,
+      comments: 6
+    },
+    {
+      id: 6,
+      title: "Certificate Distribution Ceremony: Recognizing Excellence",
+      excerpt: "Celebrating the achievements of students who excelled in the Linear IC Design workshop and setting the standard for academic excellence.",
+      content: `During the Robotronics Club inauguration, we will be distributing certificates to outstanding students who participated in the "2-Day Workshop on Exploring Linear IC Design: A Practical Framework Approach."
+
+This workshop, conducted by Dr. V. Venu Balaji, covered essential topics in linear integrated circuits, including:
+- Operational amplifier circuits
+- Active filters and oscillators
+- Voltage regulators and power supplies
+- Signal processing applications
+- Practical circuit design and testing
+
+The certificate distribution ceremony will recognize students who demonstrated exceptional understanding, creativity, and practical skills during the workshop. This event serves as motivation for all students to strive for excellence in their academic pursuits.
+
+## Award Categories
+- Best Design Project
+- Outstanding Performance
+- Creative Innovation
+- Technical Excellence
+
+## Ceremony Details
+- **Date**: November 13, 2024
+- **Time**: During inauguration ceremony
+- **Venue**: KLH University Campus
+- **Chief Guest**: Dr. L. Koteswara Rao
+
+We congratulate all the award recipients and encourage all students to participate in future workshops and events organized by the Robotronics Club.`,
+      author: "Academic Coordinator",
+      date: "November 3, 2024",
+      readTime: "2 min read",
+      category: "Achievements",
+      tags: ["Certificates", "Linear IC", "Excellence", "Recognition"],
+      featured: false,
+      image: "/images/1/3.1.jpg",
+      views: 134,
+      comments: 4
     }
   ];
 
@@ -383,7 +575,7 @@ Join us to explore the exciting intersection of AI and robotics!`,
             </p>
             <div className="border-t border-tech-cyan/20 pt-8 mt-8">
               <p className="text-tech-cyan-light text-sm">
-                © 2024 RoboHorizon Club. Empowering the next generation of robotics innovators.
+                © 2024 Robotronics Club. Empowering the next generation of robotics innovators.
               </p>
             </div>
           </div>

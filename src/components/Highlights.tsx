@@ -36,7 +36,7 @@ const Highlights = () => {
             Highlights of the <span className="text-tech-cyan">Club</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Discover what makes RoboHorizon Club the premier destination for robotics enthusiasts 
+            Discover what makes Robotronics Club the premier destination for robotics enthusiasts 
             and future engineers.
           </p>
         </div>

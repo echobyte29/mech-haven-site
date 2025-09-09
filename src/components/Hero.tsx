@@ -32,7 +32,7 @@ const Hero = () => {
           <div className="inline-flex items-center space-x-2 bg-tech-blue/30 backdrop-blur-sm border border-tech-cyan/30 rounded-full px-6 py-3 mb-8">
             <Zap className="h-4 w-4 text-tech-cyan animate-tech-pulse" />
             <span className="text-sm font-medium text-tech-cyan-light">
-              WELCOME TO OFFICIAL PAGE OF ROBOHORIZON CLUB
+              WELCOME TO OFFICIAL PAGE OF ROBOTRONICS CLUB
             </span>
           </div>
 
@@ -43,7 +43,7 @@ const Hero = () => {
             <span className="text-primary-foreground">Innovate Today:</span>
             <br />
             <span className="bg-gradient-to-r from-tech-cyan via-tech-cyan-light to-tech-cyan bg-clip-text text-transparent">
-              Welcome to the RoboHorizon Club,
+              Welcome to the Robotronics Club,
             </span>
             <br />
             <span className="text-primary-foreground text-3xl md:text-4xl lg:text-5xl">
